@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>Space_Invaders</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Bienvenida.cs~RF103e505.TMP" />
+    <None Remove="Configuracion.cs~RF2d522b4.TMP" />
+    <None Remove="Nave.cs~RF78e9ac.TMP" />
+    <None Remove="Opciones.cs~RF17f2b00.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="03data\" />
+  </ItemGroup>
+
+</Project>

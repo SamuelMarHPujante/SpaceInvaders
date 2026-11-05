@@ -1,0 +1,224 @@
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+H:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+E:\1º DAM-B 2025-26\Programacion\Código C#\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+E:\1º DAM-B 2025-26\Programacion\Ejercicios C#_tema06\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+E:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+H:\1º DAM-B 2025-26\Programacion\Proyectos entregables C#\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+H:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+E:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+H:\1º DAM-B 2025-26\PROYECTOS\C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+C:\Users\legoc\Desktop\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+E:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+I:\1º_DAM-B\Programacion\PROYECTOS_C#\Proyecto SpIn\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+E:\Diversión propia\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+E:\Diversión propia\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+E:\Diversión propia\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+E:\Diversión propia\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+E:\Diversión propia\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+E:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+E:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+E:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+E:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+E:\Diversión propia\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+E:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+E:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+E:\Diversión propia\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+I:\Diversión propia\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+I:\Diversión propia\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+I:\Diversión propia\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+I:\Diversión propia\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+I:\Diversión propia\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+I:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+I:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+I:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+I:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+I:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+I:\Diversión propia\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+I:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+I:\Diversión propia\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+I:\Diversión propia\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+I:\Diversión propia\DAM 1\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+I:\Diversión propia\DAM 1\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+I:\Diversión propia\DAM 1\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+I:\Diversión propia\DAM 1\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+I:\Diversión propia\DAM 1\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+I:\Diversión propia\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+I:\Diversión propia\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+I:\Diversión propia\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+I:\Diversión propia\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+I:\Diversión propia\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+I:\Diversión propia\DAM 1\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+I:\Diversión propia\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+I:\Diversión propia\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+I:\Diversión propia\DAM 1\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll
+H:\Código porpio\DAM 1\Space Invaders\bin\Debug\net9.0\Space Invaders.exe
+H:\Código porpio\DAM 1\Space Invaders\bin\Debug\net9.0\Space Invaders.deps.json
+H:\Código porpio\DAM 1\Space Invaders\bin\Debug\net9.0\Space Invaders.runtimeconfig.json
+H:\Código porpio\DAM 1\Space Invaders\bin\Debug\net9.0\Space Invaders.dll
+H:\Código porpio\DAM 1\Space Invaders\bin\Debug\net9.0\Space Invaders.pdb
+H:\Código porpio\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+H:\Código porpio\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfoInputs.cache
+H:\Código porpio\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.AssemblyInfo.cs
+H:\Código porpio\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+H:\Código porpio\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.dll
+H:\Código porpio\DAM 1\Space Invaders\obj\Debug\net9.0\refint\Space Invaders.dll
+H:\Código porpio\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.pdb
+H:\Código porpio\DAM 1\Space Invaders\obj\Debug\net9.0\Space Invaders.genruntimeconfig.cache
+H:\Código porpio\DAM 1\Space Invaders\obj\Debug\net9.0\ref\Space Invaders.dll

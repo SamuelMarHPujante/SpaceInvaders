@@ -1,0 +1,14 @@
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Release\net9.0\Space Invaders.exe
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Release\net9.0\Space Invaders.deps.json
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Release\net9.0\Space Invaders.runtimeconfig.json
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Release\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\bin\Release\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Release\net9.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Release\net9.0\Space Invaders.AssemblyInfoInputs.cache
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Release\net9.0\Space Invaders.AssemblyInfo.cs
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Release\net9.0\Space Invaders.csproj.CoreCompileInputs.cache
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Release\net9.0\Space Invaders.dll
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Release\net9.0\refint\Space Invaders.dll
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Release\net9.0\Space Invaders.pdb
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Release\net9.0\Space Invaders.genruntimeconfig.cache
+E:\1º DAM-B 2025-26\Proyectos entregables\C#\Space Invaders\obj\Release\net9.0\ref\Space Invaders.dll
